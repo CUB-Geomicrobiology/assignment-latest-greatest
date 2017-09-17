@@ -28,6 +28,19 @@
 
 ## References
 
+ [You can use numbers for reference-style link definitions][2]
+
+
+ - <a name="kits2017"> Test</a>
+
+[](#kits2017) Test
+
+  2. [1]: "All there is"
+  4. [^fn3]: ibid.
+
+[2]: www.example.com "My testing grounds"
+
+
 > List your references. You should have more than 4 but less than 12 references.
 
 > Remove all the instructions (lines beginning with ">") from the file to clean-up your assignment.
