@@ -47,7 +47,7 @@ What is this? Yet *another* citation?[^fn3]
  [You can use numbers for reference-style link definitions][2]
 
 
- - <a name="kits2017"/> Test
+ - <a name="kits2017"> Test</a>
 
 [](#kits2017) Test
 
