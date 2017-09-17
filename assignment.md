@@ -30,8 +30,11 @@
 
 ## References
 
-  1. [kits] Reference
-  2. [1] test
+[You can use numbers for reference-style link definitions][2]
+
+  1. [kits]: Reference
+  2. [1]: test
+  3. [2]: http://www.reddit.com
 
 > List your references. You should have more than 4 but less than 12 references.
 
