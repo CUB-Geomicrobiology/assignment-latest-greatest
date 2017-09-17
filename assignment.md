@@ -24,6 +24,18 @@
 
 > For eventual inclusion in this document, make sure that you save your figure in `.svg`, `.png` or `.jpeg/.jpg` format in the `figures` folder. If your graphics program supports it, `.svg` is better than `.png` or `.jpeg/.jpg` because it is a high quality scalable vector graphics format. In [Gravit Designer](https://designer.gravit.io/), you can do this for example via `File -> Export -> Scalable Vector Graphics (.svg)`.
 
+Some text in which I cite an author.[^fn1]
+
+More text. Another citation.[^fn2]
+
+What is this? Yet *another* citation?[^fn3]
+
+[^fn1]: So Chris Krycho, "Not Exactly a Millennium," chriskrycho.com, July 22,
+    2015, http://www.chriskrycho.com/2015/not-exactly-a-millennium.html
+    (accessed July 25, 2015), ¶6.
+
+[^fn2]: Contra Krycho, ¶15, who has everything *quite* wrong.
+
 #### Word Count:
 
 > Check your word count. The maximum is 1000 words excluding references.
@@ -35,6 +47,7 @@
   1. [kits]: Reference
   2. [1]: test
   3. [2]: http://www.reddit.com
+  4. [^fn3]: ibid.
 
 > List your references. You should have more than 4 but less than 12 references.
 
