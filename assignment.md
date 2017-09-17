@@ -14,7 +14,7 @@
 
 > Add the main text of your perspective. This should include a little bit of background to contextualize the study you are writing about, followed by your explanation of the most interesting aspects of the article (e.g. - problem, data, methods, results, interpretation), and finishing with your take on what that might mean for future research (or how it influenced the research that followed in case of a classic paper). Make sure to place your figure where it fits best and feel free to use subheadings (`### Subheading` or `#### Sub-subheading`) and other markdown styling (e.g. `*italics*` and `**bold**`) to structure your text as you see fit.
 
-> To include references, use the syntax `[Kits et al. (2017)][kits]` which looks like this [Kits et al. (2017)][kits] ref [hello][1]
+> To include references, use the syntax `[Kits et al. (2017)][@kits2017]` which looks like this [Kits et al. (2017)][@kits2017] ref [hello][1]
 
 ![Figure 1](figures/example_figure.svg)
 
@@ -44,8 +44,8 @@ What is this? Yet *another* citation?[^fn3]
 
 [You can use numbers for reference-style link definitions][2]
 
-  1. [kits]: Reference
-  2. [1]: test
+  1. [2kits]: Reference "Title"
+  2. [1]: "All there is"
   3. [2]: http://www.reddit.com
   4. [^fn3]: ibid.
 
