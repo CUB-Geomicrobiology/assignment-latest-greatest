@@ -14,7 +14,7 @@
 
 > Add the main text of your perspective. This should include a little bit of background to contextualize the study you are writing about, followed by your explanation of the most interesting aspects of the article (e.g. - problem, data, methods, results, interpretation), and finishing with your take on what that might mean for future research (or how it influenced the research that followed in case of a classic paper). Make sure to place your figure where it fits best and feel free to use subheadings (`### Subheading` or `#### Sub-subheading`) and other markdown styling (e.g. `*italics*` and `**bold**`) to structure your text as you see fit.
 
-![Figure 1](figures/example_figure.svg)
+![Figure 1](figures/example_figure.png)
 
 *Figure 1: Example Caption*
 
