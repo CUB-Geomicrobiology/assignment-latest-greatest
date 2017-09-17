@@ -14,10 +14,6 @@
 
 > Add the main text of your perspective. This should include a little bit of background to contextualize the study you are writing about, followed by your explanation of the most interesting aspects of the article (e.g. - problem, data, methods, results, interpretation), and finishing with your take on what that might mean for future research (or how it influenced the research that followed in case of a classic paper). Make sure to place your figure where it fits best and feel free to use subheadings (`### Subheading` or `#### Sub-subheading`) and other markdown styling (e.g. `*italics*` and `**bold**`) to structure your text as you see fit.
 
-> To include references, use the syntax `[Kits et al. (2017)][@kits2017]` which looks like this
-
-[Kits et al. (2017)](#kits2017) ref [hello][1]
-
 ![Figure 1](figures/example_figure.svg)
 
 *Figure 1: Example Caption*
@@ -26,36 +22,11 @@
 
 > For eventual inclusion in this document, make sure that you save your figure in `.svg`, `.png` or `.jpeg/.jpg` format in the `figures` folder. If your graphics program supports it, `.svg` is better than `.png` or `.jpeg/.jpg` because it is a high quality scalable vector graphics format. In [Gravit Designer](https://designer.gravit.io/), you can do this for example via `File -> Export -> Scalable Vector Graphics (.svg)`.
 
-Some text in which I cite an author.[^fn1]
-
-More text. Another citation.[^fn2]
-
-What is this? Yet *another* citation?[^fn3]
-
-[^fn1]: So Chris Krycho, "Not Exactly a Millennium," chriskrycho.com, July 22,
-    2015, http://www.chriskrycho.com/2015/not-exactly-a-millennium.html
-    (accessed July 25, 2015), ¶6.
-
-[^fn2]: Contra Krycho, ¶15, who has everything *quite* wrong.
-
 #### Word Count:
 
 > Check your word count. The maximum is 1000 words excluding references.
 
 ## References
-
- [You can use numbers for reference-style link definitions][2]
-
-
- - <a name="kits2017"/> Test
-
-[](#kits2017) Test
-
-  2. [1]: "All there is"
-  4. [^fn3]: ibid.
-
-[2]: www.example.com "My testing grounds"
-
 
 > List your references. You should have more than 4 but less than 12 references.
 
