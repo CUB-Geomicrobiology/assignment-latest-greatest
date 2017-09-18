@@ -12,7 +12,7 @@
 
 ## Perspective
 
-> Add the main text of your perspective. This should include a little bit of background to contextualize the study you are writing about, followed by your explanation of the most interesting aspects of the article (e.g. - problem, data, methods, results, interpretation), and finishing with your take on what that might mean for future research (or how it influenced the research that followed in case of an older classic paper). Make sure to place your figure where it fits best and feel free to use subheadings (`### Subheading` or `#### Sub-subheading`) and other markdown styling (e.g. `*italics*` and `**bold**`) to structure your text as you see fit. Also make sure to point to the appropriate references using the author, year reference style (and include all references at the end of the document). For example:
+> Add the main text of your perspective. This should include a) a little bit of background to contextualize the study you are writing about, followed by b) your explanation of the most interesting aspects of the article (e.g. - problem, data, methods, results, interpretation), and c) finishing with your perspective on what that might mean for future research (or how it influenced the research that followed in case of an older classic paper). Make sure to place your figure where it fits best and feel free to use subheadings (`### Subheading` or `#### Sub-subheading`) and other markdown styling (e.g. `*italics*` and `**bold**`) to structure your text as you see fit. Also make sure to point to the appropriate references using the author, year reference style (and include all references at the end of the document). For example:
 
 Ammonia oxidizing Archaea can grow on almost undetectable amounts of ammonia (Kits et al., 2017).
 
