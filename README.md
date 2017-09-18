@@ -36,7 +36,7 @@ Some questions you can ask to get started: What problem is this paper addressing
 ## Assignment
 
 1. Follow the instructions in the [`latest_greatest.md`](latest_greatest.md) to complete the assignment.
-2. Submit your assignment to the `review` branch for review by one of your teammates (see tutorial video for details) by the L&G draft deadline (see [schedule](https://2017-geomicrobiology.github.io/schedule/)).
+2. Submit your assignment to the `review` branch for review by one of your teammates by the L&G draft deadline (see [schedule](https://2017-geomicrobiology.github.io/schedule/)).
 3. Review the draft of one of your teammates by the peer review deadline.
 4. Revise your L&G based on your teammate's review.
 5. Submit to the `submit` branch by the L&G revised final deadline.
@@ -44,7 +44,7 @@ Some questions you can ask to get started: What problem is this paper addressing
 
 ## Peer Review
 
-Once you have completed the L&G, submit it for review by one of your teammates by creating a pull request with `review` as the base branch and your teammate as the reviewer (coordinate with your team to make sure everyone knows who to request as reviewer). Your teammates will do the same and it is your responsibility to review one of your teammates L&G. This version of the L&G will not be graded, however, a part of your grade will be based on giving your teammate a constructive review of their L&G.
+Once you have completed the L&G, submit it for review by one of your teammates by creating a pull request with `review` as the base branch and your teammate as the reviewer (coordinate with your team to make sure everyone knows who to request as reviewer). Your teammates will do the same and it is your responsibility to review one of your teammates L&G. This version of the L&G will not be graded, however, a part of your grade will be based on giving your teammate a constructive review of their L&G. See the tutorial video for details on how to add your teammate as a collaborator, request them to review your pull request, and submit a review yourself.
 
 ## Submission
 
