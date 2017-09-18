@@ -1,6 +1,6 @@
 # Latest & Greatest Assignment
 
-For this assignment, you will write a short perspective piece on a recently published or classic study broadly related to your chosen term project. The goal is to emulate the style, feeling, and intent of a Nature "News & Views" perspective article. These articles are limited to 1000 words (excluding references). They should have more than 4 but less than 12 references, and one original color figure that helps explain the interesting aspects of the study being discussed (e.g. - problem, data, methods, results, interpretation). Make it visually appealing. Additional details are provided in the [`latest_greatest.md`](latest_greatest.md).
+For this assignment, you will write a short perspective piece on a recently published or classic study broadly related to your chosen term topic. The goal is to emulate the style, feeling, and intent of a Nature [News & Views](http://www.nature.com/news/newsandviews) perspective article. These articles are limited to 1000 words (excluding references). They should have more than 4 but less than 12 references, and one original color figure that helps explain the interesting aspects of the study being discussed (e.g. - problem, data, methods, results, interpretation). Make it visually appealing. Additional details are provided in the [`latest_greatest.md`](latest_greatest.md).
 
 #### Paper selection
 

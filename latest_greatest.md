@@ -39,4 +39,4 @@ Ammonia oxidizing Archaea can grow on almost undetectable amounts of ammonia (Ki
 1. [Kits et al. Kinetic analysis of a complete nitrifier reveals an oligotrophic lifestyle. Nature, 2017.](http://www.nature.com/nature/journal/v549/n7671/full/nature23679.html)
 1. [Schleper. Ammonia oxidation: different niches for bacteria and archaea. ISME Journal, 2010.](https://www.nature.com/ismej/journal/v4/n9/full/ismej2010111a.html)
 
-> Remove all the instructions (lines beginning with ">") from the file to clean-up your assignment.
+> Remove all the instructions (lines beginning with ">") from the file to clean-up your assignment. Don't count instructions in your word count.
